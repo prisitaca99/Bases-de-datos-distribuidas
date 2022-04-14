@@ -1,0 +1,25 @@
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\bin\Debug\Practica BDD.exe.config
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\bin\Debug\Practica BDD.exe
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\bin\Debug\Practica BDD.pdb
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.csproj.AssemblyReference.cache
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica_BDD.Form1.resources
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica_BDD.Properties.Resources.resources
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.csproj.GenerateResource.cache
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.exe
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica BDD.pdb
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica_BDD.Actualizar.resources
+C:\Users\Jorge Soto\Documents\Principal\TEC\10. Decimo semestre\Topicos avanzados de BD\Practica BDD\Practica BDD\Practica BDD\obj\Debug\Practica_BDD.Agregar.resources
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\bin\Debug\Practica BDD.exe.config
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\bin\Debug\Practica BDD.exe
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\bin\Debug\Practica BDD.pdb
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica BDD.csprojAssemblyReference.cache
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica_BDD.Actualizar.resources
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica_BDD.Agregar.resources
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica_BDD.Form1.resources
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica_BDD.Properties.Resources.resources
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica BDD.csproj.GenerateResource.cache
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica BDD.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica BDD.exe
+C:\Users\prisc\OneDrive\Escritorio\Programa-BDD-Replicacion\Practica BDD\obj\Debug\Practica BDD.pdb
